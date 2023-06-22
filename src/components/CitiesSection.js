@@ -4,7 +4,10 @@ import londonImg from "../images/london.jpg"
 import shanghaiImg from "../images/shanghai.jpg"
 import "./CitiesSection.css"
 
-
+//import des images en JS
+//Création d'une liste de villes sur un hash
+//passer tous nos informations sur des attributs dédiés
+//CitiesSection est le parent des Cards
 
 const CitiesSection = () => {
 

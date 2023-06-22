@@ -6,11 +6,12 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <>
+    {/* Division de trois sections de la page en composants principaux*/}
       <ApplySection/>
       <CitiesSection/>
       <Footer/>
-    </div>
+    </>
   );
 }
 
