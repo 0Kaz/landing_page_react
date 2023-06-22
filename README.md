@@ -1,6 +1,6 @@
 
 
-## Notre première Landing Page avec React
+## Workshop Landing Page avec React
 
 <img src="react.gif"/>
 
